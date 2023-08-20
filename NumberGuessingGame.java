@@ -9,7 +9,7 @@ public class NumberGuessingGame {
         int maxAttempts = 10;
         int score = 0;
 
-        System.out.println("Welcome to the Number Guessing Game!");
+        System.out.println("Welcome to the Number Guessing Game!!!!!!");
 
         boolean playAgain = true;
         while (playAgain) {
