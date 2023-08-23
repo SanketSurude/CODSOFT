@@ -30,9 +30,9 @@ public class NumberGuessingGame {
                     score++;
                     hasGuessed = true;
                 } else if (userGuess < generatedNumber) {
-                    System.out.println("Your guess is too low.");
+                    System.out.println("Your guess is too low.Try Again");
                 } else {
-                    System.out.println("Your guess is too high.");
+                    System.out.println("Your guess is too high.Try Again");
                 }
             }
 
